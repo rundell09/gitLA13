@@ -29,3 +29,8 @@ def addRec():
  with open(filename, 'r') as read_file:
  print(read_file.read())
  read_file.close()
+ def clearRec():
+ file = open(filename, 'w')
+ file.write("")
+ file.close()
+
