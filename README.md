@@ -1,4 +1,3 @@
-# gitLA13
 # Our first GitHub activity
 This is our first GitHub 
 activity.
